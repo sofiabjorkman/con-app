@@ -1,0 +1,21 @@
+
+.header {
+  display: flex;
+  align-items: center;
+  width: 100vw;
+  height: 4rem;
+  background-color: #FAFAFA;
+}
+.headerText {
+  margin: 0;
+}
+.footerC {
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+  height: 4rem;
+  background-color: #303030;
+}
+.footerText {
+  color: #FAFAFA;
+}
