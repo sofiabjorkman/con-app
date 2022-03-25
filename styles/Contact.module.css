@@ -1,0 +1,39 @@
+.contactB {
+  display: flex;
+  justify-content: center;
+  padding-top: 6rem;
+  padding-bottom: 10rem;
+}
+.contactC {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 800px;
+  height: 600px;
+  background: rgb(45,45,45);
+  background: radial-gradient(circle, rgba(45,45,45,1) 0%, rgba(20,20,20,1) 100%);
+  border-radius: 1rem;
+}
+.headerText {
+  padding: 1rem;
+  color: #FAFAFA;
+}
+/* .inputC {
+  padding: 1rem;
+} */
+.inputContent {
+  width: 20rem;
+  height: 2.5rem;
+  border-radius: 0.5rem;
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 1rem;
+  margin: 1rem;
+}
+.textareaContent {
+  width: 42rem;
+  height: 20rem;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 0.5rem;
+}

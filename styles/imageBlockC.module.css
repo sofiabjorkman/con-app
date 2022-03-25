@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 1rem; 
+  flex-wrap: wrap;
+}
+.image {
+  border-radius: 1rem;
+}
+.descriptionC {
+  width: 400px;
+  height: auto;
+}

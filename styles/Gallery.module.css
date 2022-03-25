@@ -1,0 +1,7 @@
+.mainCon {
+  display: flex;
+  justify-content: space-around; /* MAY BE CENTER BUR NOT SPACE THEN */
+  flex-wrap: wrap;
+  padding-top: 6rem;
+  margin-bottom: 6rem;
+}

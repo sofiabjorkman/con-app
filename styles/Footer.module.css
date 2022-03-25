@@ -1,8 +1,11 @@
 .footerC {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   position: fixed;
   bottom: 0;
   width: 100vw;
-  height: 4rem;
+  height: 6rem;
   background-color: #303030;
 }
 .footerText {

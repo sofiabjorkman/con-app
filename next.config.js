@@ -5,7 +5,8 @@ const nextConfig = {
 
 module.exports = nextConfig
 
-const config = {
-  CONTENTFUL_SPACE_ID: process.env.CONTENTFUL_SPACE_ID,
-  CONTENFUL_ACCESS_KEY: process.env.CONTENFUL_ACCESS_KEY
+module.exports = {
+  images: {
+    domains: ['images.ctfassets.net'],
+  },
 }
